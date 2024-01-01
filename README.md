@@ -1,5 +1,5 @@
 # 💫 About Me:
-To be associated with a progressive organization, where I can employ Data Science, Data Analysis, Machine Learning, Deep Learning, NLP & Computer Vision knowledge, and skills to contribute to the growth of the organization and personal growth in an effective manner.
+🔭 **I’m currently working on:**  <br>Machine Learning Projects to getting JOB<br><br>👯 **I’m looking to collaborate on:**  <br>AI projects<br><br>🌱 **I’m currently learning:**  <br>Artificial intelligence<br><br>💬 **Ask me about:**  <br>Data Analyst, Data Engineering, Data Scientist, ML Engineering, Developing AI projects, MLOps Engineering, Prompt Engineering<br><br>⚡ **Fun fact:**  <br>I love Solve Probem using AI.
 
 
 ## 🌐 Socials:
