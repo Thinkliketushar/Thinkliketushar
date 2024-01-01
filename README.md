@@ -1,3 +1,7 @@
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>Machine Learning Projects to getting JOB<br><br>👯 **I’m looking to collaborate on:**  <br>AI projects<br><br>🌱 **I’m currently learning:**  <br>Artificial intelligence<br><br>💬 **Ask me about:**  <br>Data Analyst, Data Engineering, Data Scientist, ML Engineering, Developing AI projects, MLOps Engineering, Prompt Engineering<br><br>⚡ **Fun fact:**  <br>I love Solve Probem using AI.
 
@@ -19,8 +23,7 @@ na
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThinkLikeTushar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThinkLikeTushar&icon=0&color=0)](https://visitcount.itsvg.in)
