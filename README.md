@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/CSS)
 
+![CSS](https://img.shields.io/badge/css)
