@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/css)
 
 ![Static Badge]
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
