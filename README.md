@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 
 ![Activedsfd](https://img.shields.io/badge/Active-Yes-brightgreen) 
 
+**_Custom Badge:_** _dsfdsf_
+
