@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/CSS)
 
+
+<a href="https://github.com/search?q=user%3AMonikaSzucs+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
 ![CSS](https://img.shields.io/badge/css)
 
 ![Static Badge]
