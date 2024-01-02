@@ -12,6 +12,17 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk12.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk13.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk14.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk15.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk16.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk17.png" width="40" height="40"/> </a> </p>
+
+
+
+<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk1.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk2.png" width="40" height="40"/> </a>
+
+
+
 
 
   
