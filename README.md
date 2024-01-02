@@ -10,7 +10,7 @@
 # 🔥 About Me: I am just a 👱🏻Guy with ⌨️keyboard and 🖱️mouse.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tushar.oclock/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-arora-6431b5230/)
-<p align ="center" > <a target="_blank" href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/pw%201.png" width="20%" height="20%"> </a> </p>
+<p > <a target="_blank" href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/pw%201.png" width="20%" height="20%"> </a> </p>
 
 ## 📈 Python & Data Analytics 📈
 
