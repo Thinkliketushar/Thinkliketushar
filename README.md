@@ -59,7 +59,7 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk11.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk12.png" width="40" height="40"/> </a> </p>
 
-## 💾 DMLOps & BigData 💾
+## 💾 MLOps & BigData 💾
 
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk2.png" width="40" height="40"/> </a>
