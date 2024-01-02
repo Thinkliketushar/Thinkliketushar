@@ -59,6 +59,47 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk11.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk12.png" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk1.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk2.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk3.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk4.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk5.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk6.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk7.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk8.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk9.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk10.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk11.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk12.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk13.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk14.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk15.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk16.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk17.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk18.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk19.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk20.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk21.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk22.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk23.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk24.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk25.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk26.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk27.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk28.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk29.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk30.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk31.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk32.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk33.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk34.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk35.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk36.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk37.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk38.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk39.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk40.png" width="40" height="40"/> </a> </p>
+
 
 
 
