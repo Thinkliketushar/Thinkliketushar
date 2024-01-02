@@ -1,6 +1,8 @@
+
+
 <p> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png"> </a> </p>
 
-# 🔥 About Me: I am just a 👱🏻Guy with ⌨️keyboard and 🖱️mouse
+# 🔥 About Me: I am just a 👱🏻Guy with ⌨️keyboard and 🖱️mouse.
 
 ## 📈 Python & Data Analytics 📈
 
@@ -127,9 +129,6 @@
 
   
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>Machine Learning Projects to getting JOB<br><br>👯 **I’m looking to collaborate on:**  <br>AI projects<br><br>🌱 **I’m currently learning:**  <br>Artificial intelligence<br><br>💬 **Ask me about:**  <br>Data Analyst, Data Engineering, Data Scientist, ML Engineering, Developing AI projects, MLOps Engineering, Prompt Engineering<br><br>⚡ **Fun fact:**  <br>I love Solve Probem using AI.
 
 
 ## 🌐 Socials:
