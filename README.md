@@ -2,7 +2,7 @@
 
 
 
-<p> <a href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png"> </a> </p>
+<p> <a href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png" width="50%" height="50%"> </a> </p>
 
 
 
