@@ -4,7 +4,7 @@
 
 # 🔥 About Me: I am just a 👱🏻Guy with ⌨️keyboard and 🖱️mouse.
 
-[![Website](https://img.shields.io/badge/website.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tushar.oclock/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-arora-6431b5230/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tushar.oclock/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-arora-6431b5230/)
 
 ## 📈 Python & Data Analytics 📈
 
