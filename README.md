@@ -101,6 +101,18 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk40.png" width="40" height="40"/> </a> </p>
 
 
+<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk1.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk2.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk3.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk4.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk5.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk6.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk7.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk8.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk9.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk10.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk11.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk12.png" width="40" height="40"/> </a> </p>
 
 
 
