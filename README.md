@@ -20,7 +20,30 @@
 
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk2.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk3.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk4.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk5.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk6.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk7.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk8.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk9.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk10.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk11.png" width="40" height="40"/> </a> </p>
 
+
+
+
+<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk1.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk2.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk3.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk4.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk5.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk6.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk7.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk8.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk9.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk10.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk11.png" width="40" height="40"/> </a> </p>
 
 
 
