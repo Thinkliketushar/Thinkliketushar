@@ -2,9 +2,9 @@
 
 
 
-<p> <a href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png"> </a> </p>
+<p> <a target="_blank" href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png"> </a> </p>
 
-<p align ="center" > <a  href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/pw%201.png" width="30%" height="30%"> </a> </p>
+<p align ="center" > <a target="_blank" href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/pw%201.png" width="20%" height="20%"> </a> </p>
 
 
 # 🔥 About Me: I am just a 👱🏻Guy with ⌨️keyboard and 🖱️mouse.
