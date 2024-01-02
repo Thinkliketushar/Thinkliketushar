@@ -1,6 +1,7 @@
 <p> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png"> </a> </p>
 
-
+# 🔥 About Me:
+I am just a 👱🏻Guy with ⌨️keyboard and 🖱️mouse
 
 ## 📈 Python & Data Analytics 📈
 
