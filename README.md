@@ -1,4 +1,4 @@
-<p> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png" width="100" height="100"/> </a> </p>
+<p> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ban3.png"> </a> </p>
 
 
 
