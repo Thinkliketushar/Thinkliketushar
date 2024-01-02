@@ -1,4 +1,4 @@
-<p align ="center" > <a  href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/pw.png" width="90%" height="90%"> </a> </p>
+<p align ="center" > <a  href = "https://thinkliketushar.github.io/Portfolio/" target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/pw.png" width="50%" height="50%"> </a> </p>
 
 
 
