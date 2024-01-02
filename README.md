@@ -1,3 +1,5 @@
+## 📈 Python & Data Analytics 📈
+
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk3.png" width="40" height="40"/> </a>
@@ -16,8 +18,6 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk16.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk17.png" width="40" height="40"/> </a> </p>
 
-
-
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk3.png" width="40" height="40"/> </a>
@@ -30,8 +30,7 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk10.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk11.png" width="40" height="40"/> </a> </p>
 
-
-
+## 🤖 Machine Learning 🤖
 
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk2.png" width="40" height="40"/> </a>
@@ -45,6 +44,7 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk10.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk11.png" width="40" height="40"/> </a> </p>
 
+## 🧠 Deep Learning 🧠
 
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk2.png" width="40" height="40"/> </a>
@@ -58,6 +58,8 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk10.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk11.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk12.png" width="40" height="40"/> </a> </p>
+
+## 💾 DMLOps & BigData 💾
 
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk2.png" width="40" height="40"/> </a>
@@ -100,6 +102,7 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk39.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk40.png" width="40" height="40"/> </a> </p>
 
+## 🧰 Other Skills & Tools 🧰
 
 <p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk2.png" width="40" height="40"/> </a>
