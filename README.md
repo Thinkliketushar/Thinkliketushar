@@ -14,7 +14,7 @@
 
 ## 📈 Python & Data Analytics 📈
 
-<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk1.png" width="40" height="40"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk3.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk4.png" width="40" height="40"/> </a>
