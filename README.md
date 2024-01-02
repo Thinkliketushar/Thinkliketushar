@@ -32,7 +32,7 @@
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk16.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/py/sk17.png" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk1.png" width="40" height="40"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk3.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/tools/sk4.png" width="40" height="40"/> </a>
@@ -46,7 +46,7 @@
 
 ## 🤖 Machine Learning 🤖
 
-<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk1.png" width="40" height="40"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk3.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/ML/sk4.png" width="40" height="40"/> </a>
@@ -60,7 +60,7 @@
 
 ## 🧠 Deep Learning 🧠
 
-<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk1.png" width="40" height="40"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk3.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/Dl/sk4.png" width="40" height="40"/> </a>
@@ -75,15 +75,15 @@
 
 ## 💾 MLOps & BigData 💾
 
-<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk1.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk2.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk3.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk4.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk5.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk6.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk7.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk8.png" width="60" height="60"/> </a>
-<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk9.png" width="60" height="60"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk1.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk2.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk3.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk4.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk5.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk6.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk7.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk8.png" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk9.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk10.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk11.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/mlops/sk12.png" width="40" height="40"/> </a>
@@ -118,7 +118,7 @@
 
 ## 🧰 Other Skills & Tools 🧰
 
-<p align="left"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk1.png" width="40" height="40"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk1.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk2.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk3.png" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://github.com/Thinkliketushar/Portfolio/blob/main/images/skill/sk4.png" width="40" height="40"/> </a>
