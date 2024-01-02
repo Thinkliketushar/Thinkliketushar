@@ -136,7 +136,7 @@
 
 
   
-<img align = "center"  src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
+<p align = "center"> <img   src='https://randommeme-five.vercel.app/' style="height: 500px;"/> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThinkLikeTushar&icon=0&color=0)](https://visitcount.itsvg.in)
